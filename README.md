@@ -12,8 +12,8 @@ I've created this for a completion of a test required by TCI.
 
 Go to project folder
 
-Run 
-`npm install`
+Run  
+`npm install`  
 `gulp`
 
 That's it! And browse to `http://localhost:9006`
